@@ -34,10 +34,10 @@
                 android:layout_gravity="left"
                 android:textSize="20sp"
                 android:textColor="@color/black"
-                android:text="Primer Semestre" />
+                android:text="@string/primer_semestre" />
 
             <CheckBox
-                android:id="@+id/checkboxDiscretas"
+                android:id="@+id/primerSemestre"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="10dp"

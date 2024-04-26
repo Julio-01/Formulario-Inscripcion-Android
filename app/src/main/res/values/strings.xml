@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Datos del Solicitante</string>
+    <string name="app_name">Solicitud</string>
+    <string name="action_settings">Acciones</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_information">Informacion</string>
+    <string name="primer_semestre">Primer Semestre</string>
+    <string name="action_new">Nuevo Registro</string>
+    <string name="action_cancel">Cancelar Registro</string>
+    <string name="action_empty">Vaciar Registro</string>
+    <string name="action_options">Mas opciones</string>
 </resources>
